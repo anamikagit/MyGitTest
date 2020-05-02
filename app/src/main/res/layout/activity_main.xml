@@ -14,6 +14,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         android:textSize="12dp"
+        android:textAlignment="center"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginTop="@android:dimen/app_icon_size"
         app:layout_constraintTop_toTopOf="parent" />
